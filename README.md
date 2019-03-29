@@ -6,3 +6,5 @@ dev branch
 feature_a branch
 
 feature_b branch 1
+
+feature_c branch
